@@ -1,0 +1,8 @@
+/* @font-face */
+
+@font-face {
+    font-family: "Open_Sans", "quicksand";
+    src: '/fonts/Open_Sans/OpenSans-Regular.ttf';
+    src: '/fonts/Open_Sans/OpenSans-Bold.ttf';
+    src: '/fonts/quicksand/Quicksand-Bold.otf';
+}

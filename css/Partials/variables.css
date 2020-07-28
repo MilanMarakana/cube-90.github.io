@@ -1,0 +1,16 @@
+/* CSS Variables */
+
+:root {
+    /* color varients */
+    --primary-color: #F9F9FF;
+    --primary-color1: #FFFFFF;
+    --main-color: rgb(69, 67, 96);
+    --text-color: #5E5C7F;
+    --text-color2: #FFFFFF;
+    --footer-text: #D5D5D7;
+
+
+    /* font-family */
+    --open_sans: 'Open Sans', sans-serif;
+    --quicksand: 'Quicksand', sans-serif;
+}
